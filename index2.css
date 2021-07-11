@@ -1,0 +1,115 @@
+#p6{
+    font-size: 20px;  
+}
+#p7{
+    font-size: 20px;
+}
+#li2{
+ font-size: 15px;
+}
+#img4{
+    height:25px;
+}
+#b1{
+font-size: 1px;
+}
+#p8{
+    font-size: 15px;
+}
+#img5{
+    height: 50%;
+    padding-left: 10px;
+}
+#p9{
+    font-size: 20px;
+}
+table{
+font-family:Arial,sans-serif;
+border-collapse:collapse;
+width:50%;
+} 
+td{
+    border:1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: #dddddd ;
+}
+th{
+font-size: 20px;
+}
+#a1{
+font-size: 25px;    
+}
+#div20{
+    border:solid 3px;
+    background-color: cornsilk;
+    margin-top: 20px;
+    width: 50%;
+}
+#div21{
+    width: 80%;
+    border:dashed ;
+}
+#span1{
+    font-weight: bold;
+    color: red;
+}
+#span2{
+    font-weight: bold;
+    color:blue;
+}
+#span3{
+    font-size: 25px;   
+}   
+#divbig{
+    float: left;
+    border: solid;
+    background-color: #c7f4ff;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 3981px;
+    border-width: 0px 1px;
+} 
+#game{
+    height: 120px; 
+}
+#span4{
+    font-weight: bold;
+    color: aqua;   
+}
+#b1{
+    font-size: 40px;
+}
+#span5{
+    font-weight: bold;
+    color: #ff0400; 
+}
+#divbig1{
+    margin-left:5%;
+}
+#div40{
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+}
+#div50{
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+}
+#span6{
+    font-weight: 10%;
+    color: blue;
+}
+#p100{
+font-size: 15px; 
+}
+#div300{
+    float: right;
+    border: double;
+    width: 200px;
+    background-color: #d2dce6;
+}
+#a100{
+    font-size: 20px;
+}
